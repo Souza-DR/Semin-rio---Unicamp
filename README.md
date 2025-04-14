@@ -1,6 +1,6 @@
 # Stochastic Optimization Methods
 
-This repository contains a LaTeX presentation on stochastic optimization methods, with a special focus on applications for computationally intensive problems such as Full Waveform Inversion (See https://drive.google.com/file/d/1exNgw4FU8i8m2mcaQIyZE_zujZG9tLgO/view?usp=sharing to view the PDF file).
+This repository contains a LaTeX presentation on stochastic optimization methods, with a special focus on applications for computationally intensive problems such as Full Waveform Inversion (See https://drive.google.com/file/d/1no7Y3Zd0EV7mGcZVbTSyMGSbb6IFMap9/view?usp=sharing to view the PDF file).
 
 ## Description
 
